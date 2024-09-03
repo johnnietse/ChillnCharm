@@ -4,6 +4,8 @@
 Android shopping app built with MVVM Clean Architecture.
 
 This application was developed as a freelance project during my summer stint with Freelancer.com.
+The client of the application envisioned a comprehensive e-commerce application designed to provide an exceptional online shopping experience for their brand, ChillnCharm. ChillnCharm is a dynamic lifestyle brand dedicated to providing customers with the latest in technology, electronics, and casual fashion. Their goal was to offer customers a platform that seamlessly integrates robust functionality with a user-friendly interface, ensuring a smooth and engaging shopping journey for users.
+
 
 ## Screenshots
 | Splash Screen       | Login Screen      | Sign-up Screen      |
@@ -55,6 +57,10 @@ This application was developed as a freelance project during my summer stint wit
 | Edit Profile Screen 1       | Edit Profile Screen 2       | 
 |----------------|----------------|
 | ![Screenshot #13](https://github.com/user-attachments/assets/22422b4b-130c-4209-add9-79a494fc3d4c) | ![Screenshot #14](https://github.com/user-attachments/assets/dbc323fa-f952-4ec4-969a-16f10b370e3d) 
+
+
+
+## Design and Architecture
 
 
 
