@@ -24,7 +24,14 @@ Android shopping app built with MVVM Clean Architecture
 
 | Men's Clothing Products Screen       | Product Details Screen       | Shopping Cart Screen       |
 |----------------|----------------|----------------|
-| ![Image 7](Screenshots/Screenshot #7.png) | ![Image 8](Screenshots/Screenshot #8.png) | ![Image 9](Screenshots/Screenshot #9.png) 
+| ![Screenshot #7](https://github.com/user-attachments/assets/ace84541-e9a8-4cb1-8d21-2d96c113e769)
+ | ![Screenshot #8](https://github.com/user-attachments/assets/b8baa588-a200-4905-a554-cc6cd8537e12)
+ | ![Screenshot #9](https://github.com/user-attachments/assets/4a3f966c-0e96-4277-80f4-02072843309f)
+
+
+
+
+
 
 
 
@@ -33,7 +40,15 @@ Android shopping app built with MVVM Clean Architecture
 
 | Wishlist Screen       | Searching Screen       | Profile Screen       |
 |----------------|----------------|----------------|
-| ![Image 10](Screenshots/Screenshot #10.png) | ![Image 11](Screenshots/Screenshot #11.png) | ![Image 12](Screenshots/Screenshot #12.png) 
+| 
+![Screenshot #10](https://github.com/user-attachments/assets/1f28f728-2d26-4aa9-8231-5685b4c080ca)
+ | ![Screenshot #11](https://github.com/user-attachments/assets/166c2350-8b0a-4f3f-9990-c1d043b48967) |![Screenshot #12](https://github.com/user-attachments/assets/dd7734a9-f38d-457c-956b-42dc8f465064)
+
+
+
+
+
+
 
 
 
@@ -41,4 +56,7 @@ Android shopping app built with MVVM Clean Architecture
 
 | Edit Profile Screen 1       | Edit Profile Screen 2       | 
 |----------------|----------------|
-| ![Image 13](Screenshots/Screenshot #13.png) | ![Image 14](Screenshots/Screenshot #14.png) |
+| ![Screenshot #13](https://github.com/user-attachments/assets/22422b4b-130c-4209-add9-79a494fc3d4c) | ![Screenshot #14](https://github.com/user-attachments/assets/dbc323fa-f952-4ec4-969a-16f10b370e3d) 
+
+
+
