@@ -6,7 +6,7 @@ Android shopping app built with MVVM Clean Architecture
 ## Screenshots
 | Splash Screen       | Login Screen      | Sign-up Screen      |
 |----------------|----------------|----------------|
-| ![Image 1](ChillnCharm/Screenshots/Screenshot #1.png") | ![Image 2](Screenshots/Screenshot #2.png) | ![Image 3](Screenshots/Screenshot #3.png) 
+| ![Image 1](ChillnCharm/Screenshots/Screenshot #1.png) | ![Image 2](Screenshots/Screenshot #2.png) | ![Image 3](Screenshots/Screenshot #3.png) 
 
 
 | All Products Screen      | Electronics Products Screen       | Jewelery Products Screen       |
