@@ -1,7 +1,9 @@
 
 # ChillnCharm
 
-Android shopping app built with MVVM Clean Architecture
+Android shopping app built with MVVM Clean Architecture.
+
+This application was developed as a freelance project during my summer stint with Freelancer.com.
 
 ## Screenshots
 | Splash Screen       | Login Screen      | Sign-up Screen      |
