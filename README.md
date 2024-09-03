@@ -62,5 +62,15 @@ The client of the application envisioned a comprehensive e-commerce application 
 
 ## Design and Architecture
 
+The application employs a combination of Model-View-ViewModel (MVVM) architecture, the Repository pattern, and Clean Architecture principles. These methodologies were integrated to ensure a modular, scalable, and maintainable codebase with minimal coupling between components.
+
+The project is organized into three distinct layers, implemented within a single module:
+
+1. Data Layer: Manages data retrieval from various sources, including both local and remote. For this project, the remote data source is accessed via the FAKE STORE API using Retrofit, while the local data source utilizes ROOM Database for persistent storage.
+
+2. Domain Layer: Contains the core business logic of the application. This layer interacts with the Data Layer through an abstraction, the Repository Interface, and processes data before passing it to the UI Layer.
+
+3. Presentation Layer: Handles the display of content to the user. The ViewModel in this layer coordinates with the Domain Layer through use-case classes, managing data flow and reacting to user interactions.
+
 
 
