@@ -7,6 +7,10 @@ This application was developed as a freelance project during my summer stint wit
 The client of the application envisioned a comprehensive e-commerce application designed to provide an exceptional online shopping experience for their brand, ChillnCharm. ChillnCharm is a dynamic lifestyle brand dedicated to providing customers with the latest in technology, electronics, and casual fashion. Their goal was to offer customers a platform that seamlessly integrates robust functionality with a user-friendly interface, ensuring a smooth and engaging shopping journey for users.
 
 
+UI/UX Design
+
+To ensure the application's interface was intuitive and visually appealing, I utilized Figma to design the user interface. From wireframes to high-fidelity prototypes, I crafted a cohesive design system tailored to the client's brand identity. The design process involved creating interactive prototypes to test user flows, such as registration, product browsing, and checkout, ensuring the UI aligned with both user needs and modern e-commerce design standards. This collaborative process helped refine the app’s aesthetics, enhancing the shopping experience through clean layouts, responsive elements, and seamless navigation.
+
 ## Screenshots
 | Splash Screen       | Login Screen      | Sign-up Screen      |
 |----------------|----------------|----------------|
