@@ -11,6 +11,13 @@ The client of the application envisioned a comprehensive e-commerce application 
 
 To ensure the application's interface was intuitive and visually appealing, I utilized Figma to design the user interface. From wireframes to high-fidelity prototypes, I crafted a cohesive design system tailored to the client's brand identity. The design process involved creating interactive prototypes to test user flows, such as registration, product browsing, and checkout, ensuring the UI aligned with both user needs and modern e-commerce design standards. This collaborative process helped refine the app’s aesthetics, enhancing the shopping experience through clean layouts, responsive elements, and seamless navigation.
 
+Breakdown:
+
+- *Wireframes and High-Fidelity Prototypes:* I created low-fidelity wireframes to map out user flows (e.g., registration, product browsing, checkout) and then transitioned to high-fidelity prototypes for interactive testing.
+- **Design System:** Developed a scalable design system with reusable components (buttons, typography, and color palettes) aligned with ChillnCharm's branding for consistency across screens.
+- **Responsive and Adaptive Design:** Ensured seamless functionality across devices with varying screen sizes by adhering to Material Design principles, focusing on responsive layouts and interactive elements.
+- **Developer Handoff:** Used Figma’s export and specification tools to streamline the integration of UI assets into Android Studio, ensuring efficient handoff and alignment between the design and implementation phases.
+
 ## Screenshots
 | Splash Screen       | Login Screen      | Sign-up Screen      |
 |----------------|----------------|----------------|
