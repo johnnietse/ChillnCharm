@@ -86,6 +86,10 @@ The project is organized into three distinct layers, implemented within a single
 
 
 
+## 🎥 Demo Video
+A short walkthrough of the application is available below.
+
+▶️ Watch the full demo here:
 https://youtu.be/D_8MEBWp0xc
 
 
