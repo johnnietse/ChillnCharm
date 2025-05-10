@@ -101,4 +101,5 @@ The screenshots, demo video, and design assets showcased in this repository are 
 **Intellectual Property:** The client retains all rights to the ChillnCharm brand, application code, and proprietary content.
 Usage Restrictions: The shared materials (screenshots, video, etc.) may not be reproduced or reused without separate written consent from the client.
 
-
+**© ChillnCharm** – Screenshots and demo video shared with permission.  
+The app code is proprietary and not included in this repository.
