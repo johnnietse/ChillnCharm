@@ -96,7 +96,7 @@ https://youtu.be/D_8MEBWp0xc
 
 ## Permissions & Disclaimer
 
-The screenshots, demo video, and design assets showcased in this repository are shared with the explicit permission of ChillnCharm, the client and owner of the application. These materials are intended solely for portfolio, educational, and promotional purposes.
+The screenshots, demo video, and design assets showcased in this repository are shared with the explicit permission of ChillnCharm, the client and owner of the application. These materials are intended solely for promotional purposes.
 
 **Intellectual Property:** The client retains all rights to the ChillnCharm brand, application code, and proprietary content.
 Usage Restrictions: The shared materials (screenshots, video, etc.) may not be reproduced or reused without separate written consent from the client.
